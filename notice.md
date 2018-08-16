@@ -1,0 +1,1 @@
+1.jqlite的 find 方法只能找到 html tag 不能找到ID 或者class的值。

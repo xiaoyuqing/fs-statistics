@@ -1,0 +1,53 @@
+{
+  "errCode": 0,
+  "errMsg": "OK",
+  "data": [
+    {
+      "names": [
+        "红包"
+      ],
+      "enName": "4dfa3b47",
+      "dataPoints": [
+        {
+          "n_bonus_send_member_total": 103,
+          "n_bonus_receive_num_total": 28,
+          "n_bonus_back_num_total": 28,
+          "n_bonus_back_money_total": 31.27,
+          "n_bonus_send_money_total": 1252.17,
+          "n_bonus_receive_member_total": 1333,
+          "n_bonus_send_num_total": 31439,
+          "n_bonus_receive_money_total": 55.14
+        }
+      ]
+    },
+    {
+      "names": [
+        "钱包"
+      ],
+      "enName": "2f47473c",
+      "dataPoints": [
+        {
+          "n_wallet_bind_card_fail_total": 18,
+          "n_wallet_unbind_card_total": 216,
+          "n_wallet_bind_card_total": 1650,
+          "n_wallet_bind_member_total": 123
+        }
+      ]
+    },
+    {
+      "names": [
+        "财务"
+      ],
+      "enName": "b8fe8d95",
+      "dataPoints": [
+        {
+          "n_account_day_cash_num_total": 28,
+          "n_account_day_recharge_money_total": 151526,
+          "n_account_weixin_recharge_money_total": 31.01,
+          "n_account_day_cash_money_total": 256374.62,
+          "n_account_kq_recharge_money_total": 343.36
+        }
+      ]
+    }
+  ]
+}

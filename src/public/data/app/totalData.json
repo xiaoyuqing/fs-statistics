@@ -1,0 +1,66 @@
+{
+  "errCode": 0,
+  "errMsg": "OK",
+  "data": [
+    {
+      "names": [
+        "企业邮箱"
+      ],
+      "enName": "d7c0a188",
+      "attrs": {},
+      "displayAttrs": {},
+      "dataPoints": [
+        {
+          "n_click_ea_member_total": 134,
+          "n_click_times_total": 1233,
+          "n_click_member_total": 234
+        }
+      ]
+    },
+    {
+      "names": [
+        "会议助手"
+      ],
+      "enName": "c85777fa",
+      "attrs": {},
+      "displayAttrs": {},
+      "dataPoints": [
+        {
+          "n_click_ea_member_total": 134,
+          "n_click_times_total": 1233,
+          "n_click_member_total": 234
+        }
+      ]
+    },
+    {
+      "names": [
+        "外勤签到"
+      ],
+      "enName": "828bcf3d",
+      "attrs": {},
+      "displayAttrs": {},
+      "dataPoints": [
+        {
+          "n_click_ea_member_total": 134,
+          "n_click_times_total": 1233,
+          "n_click_member_total": 234
+        }
+      ]
+    },
+    {
+      "names": [
+        "考勤签到"
+      ],
+      "enName": "87c9ca42",
+      "attrs": {},
+      "displayAttrs": {},
+      "dataPoints": [
+        {
+          "n_click_ea_member_total": 134,
+          "n_click_times_total": 1233,
+          "n_click_member_total": 234
+        }
+      ]
+    }
+  ]
+}

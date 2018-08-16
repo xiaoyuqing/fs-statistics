@@ -1,0 +1,127 @@
+{
+  "errCode": 0,
+  "errMsg": "OK",
+  "data": [
+    {
+      "names": [
+        "CRM",
+        "app"
+      ],
+      "enName": "Q1JNYXBw",
+      "attrs": {},
+      "displayAttrs": {
+        "listing_date": "2016-04-10"
+      },
+      "dataPoints": [
+        {
+          "n_banner_click_times": 12,
+          "n_banner_click_ea_member": 34,
+          "stat_date": 1460649600000
+        },
+        {
+          "n_banner_click_times": 1000000,
+          "n_banner_click_ea_member": 2,
+          "stat_date": 1460736000000
+        },
+        {
+          "n_banner_click_times": 12,
+          "n_banner_click_ea_member": 56,
+          "stat_date": 1460822400000
+        }
+      ]
+    },
+    {
+      "names": [
+        "会议助手",
+        "app"
+      ],
+      "enName": "5Lya6K6u",
+      "attrs": {},
+      "displayAttrs": {
+        "listing_date": "2016-04-10"
+      },
+      "dataPoints": [
+        {
+          "n_banner_click_times": 123,
+          "n_banner_click_ea_member": 12,
+          "n_banner_click_member": 36,
+          "stat_date": 1460649600000
+        },
+        {
+          "n_banner_click_times": 123,
+          "n_banner_click_ea_member": 12,
+          "n_banner_click_member": 36,
+          "stat_date": 1460736000000
+        },
+        {
+          "n_banner_click_times": 123,
+          "n_banner_click_ea_member": 12,
+          "n_banner_click_member": 36,
+          "stat_date": 1460822400000
+        }
+      ]
+    },
+    {
+      "names": [
+        "CRM",
+        "web"
+      ],
+      "enName": "Q1JNd2Vi",
+      "attrs": {},
+      "displayAttrs": {
+        "listing_date": "2016-04-10"
+      },
+      "dataPoints": [
+        {
+          "n_banner_click_times": 123,
+          "n_banner_click_ea_member": 12,
+          "n_banner_click_member": 36,
+          "stat_date": 1460649600000
+        },
+        {
+          "n_banner_click_times": 123,
+          "n_banner_click_ea_member": 12,
+          "n_banner_click_member": 36,
+          "stat_date": 1460736000000
+        },
+        {
+          "n_banner_click_times": 123,
+          "n_banner_click_ea_member": 12,
+          "n_banner_click_member": 36,
+          "stat_date": 1460822400000
+        }
+      ]
+    },
+    {
+      "names": [
+        "PK助手",
+        "web"
+      ],
+      "enName": "UEvliqnm",
+      "attrs": {},
+      "displayAttrs": {
+        "listing_date": "2016-04-10"
+      },
+      "dataPoints": [
+        {
+          "n_banner_click_times": 123,
+          "n_banner_click_ea_member": 12,
+          "n_banner_click_member": 36,
+          "stat_date": 1460649600000
+        },
+        {
+          "n_banner_click_times": 123,
+          "n_banner_click_ea_member": 12,
+          "n_banner_click_member": 36,
+          "stat_date": 1460736000000
+        },
+        {
+          "n_banner_click_times": 123,
+          "n_banner_click_ea_member": 12,
+          "n_banner_click_member": 36,
+          "stat_date": 1460822400000
+        }
+      ]
+    }
+  ]
+}

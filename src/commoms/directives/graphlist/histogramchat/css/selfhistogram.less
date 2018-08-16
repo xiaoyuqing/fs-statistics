@@ -1,0 +1,127 @@
+@import '~assets/css/variable.less';
+//@import '../../css/dropdown.less';
+@import '../../css/color.less';
+.self-histogramchat{ 
+   background-color:#fcfcfc;
+   padding:24px;/* px */
+   margin-bottom: 20px;
+   .fs-graph-name{
+     padding-left: 18px;
+     border-left: 4px solid @dodgerBlue;/* px */
+     
+   }
+   .servicetable{
+
+     width:100%;
+      tr{
+
+        td{
+           padding:32px 0;  
+           height:50px;       
+           }
+         }
+      .td_left{          
+         .rank-num{
+           display:inline-block;
+           color:#fff;
+           width:40px;/*px*/
+           height:40px;/*px*/
+           line-height:40px;/*px*/
+           border-radius:50%;
+           margin-right:12px;/*px*/
+           text-align:center;
+           vertical-align: middle;
+         }
+         .rank-name{
+          display:inline-block;
+          max-width: 167px;/* px */
+          vertical-align: middle;
+          word-break:break-all;
+         }
+      }
+      
+      .td_right {
+        .bar{
+          width:100%;
+          height:10px;/*px*/
+          position:relative;
+        }
+
+        .bar_b{
+             width:100%;
+             display:block;
+             height:10px;/*px*/
+             line-height:10px;/*px*/
+             border-radius:5px;/*px*/
+             position:absolute;
+             left:0;
+             top:0;
+        }
+
+      }  
+
+      td.graph-detail{
+       text-align:right;
+      }
+
+      .datadetail{
+       color:@warmGrey;
+       padding-top: 10px;
+      }
+
+      .fs-rank-name{
+      color:@warmGrey;
+      }
+
+      .dropdown-handle{
+      text-align:right;
+      color:@greyishBrown;
+      }
+           
+      
+    }
+
+}
+
+.servicetable  th.dropdown-warp{
+    width:60%;
+}
+
+.barchart-color{
+  background-color:@whiteFour;
+}
+
+.barchart-color-0{
+ background-color:@fadedOrange;
+ }  
+ .barchart-color-1{
+ background-color:@lightGold;
+ }
+ .barchart-color-2{
+ background-color:@softBlue;
+ }
+ .barchart-color-3{
+ background-color:@seafoamBlue;
+ }
+ .barchart-color-4{
+ background-color:@turtleGreen;
+ }
+ .barchart-color-5{
+ background-color:@liliac;
+ }
+ .barchart-color-6{
+ background-color:@warmGrey;
+ }
+ .barchart-color-7{
+ background-color:@greyish;
+ }
+ .barchart-color-8{
+ background-color:@pinkishGreyThree;
+ }
+ .barchart-color-9{
+ background-color:@whiteFour;
+ }
+
+
+//export default angular.module("styles.directive.graphlist.dropdown", []).name;
+

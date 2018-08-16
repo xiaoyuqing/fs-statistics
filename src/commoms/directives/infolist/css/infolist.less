@@ -1,0 +1,62 @@
+@import '~assets/css/variable.less';
+.fs-info-container{
+	min-height: 100%;
+	background-color: #fff;
+} 
+.fs-info-left{
+	width: 20%;
+	float: left;
+}
+.fs-info-right{
+	float: left;
+	width: 80%;
+	overflow: auto;
+}
+
+.info-table-mode{
+	thead{
+		border-bottom: 1px solid @borderGrey;/*px*/
+	}
+
+	th{
+
+		height: @top-bar-height;/*px*/
+		line-height: @top-bar-height;/*px*/
+		font-size: 26px;/*px*/
+		color: @greyishBrown;
+	}
+
+	td{
+		height: (@top-bar-height - 8px);/*px*/
+		line-height: (@top-bar-height - 8px);/*px*/
+		color: @greyishBrown;
+		font-size: 28px;/*px*/
+	}
+
+	th,td{
+		white-space: nowrap;
+		text-align: center;
+	}
+}
+
+.fs-info-ltable{
+	width: 100%;
+	th,td{
+
+		background-color: @veryLightBlue;
+	}
+}
+
+.fs-info-rtable{
+	th{
+		padding: 0 25px;
+		background-color: @white;
+	}
+	min-width: 100%;
+	tr:nth-child(odd){
+		background-color: @paleGreyTwo;
+	}
+	tr:nth-child(even){
+		background-color: @white;
+	}
+}

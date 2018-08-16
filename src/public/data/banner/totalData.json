@@ -1,0 +1,78 @@
+{
+  "errCode": 0,
+  "errMsg": "OK",
+  "data": [
+    {
+      "names": [
+        "CRM",
+        "app"
+      ],
+      "enName": "Q1JNYXBw",
+      "attrs": {},
+      "displayAttrs": {
+        "listing_date": "2016-04-10"
+      },
+      "dataPoints": [
+        {
+          "n_banner_click_times_total": 123,
+          "n_banner_click_member_total": 36,
+          "n_banner_click_ea_member_total": 12
+        }
+      ]
+    },
+    {
+      "names": [
+        "会议助手",
+        "app"
+      ],
+      "enName": "5Lya6K6u",
+      "attrs": {},
+      "displayAttrs": {
+        "listing_date": "2016-04-10"
+      },
+      "dataPoints": [
+        {
+          "n_banner_click_times_total": 123,
+          "n_banner_click_member_total": 36,
+          "n_banner_click_ea_member_total": 12
+        }
+      ]
+    },
+    {
+      "names": [
+        "CRM",
+        "web"
+      ],
+      "enName": "Q1JNd2Vi",
+      "attrs": {},
+      "displayAttrs": {
+        "listing_date": "2016-04-10"
+      },
+      "dataPoints": [
+        {
+          "n_banner_click_times_total": 123,
+          "n_banner_click_member_total": 36,
+          "n_banner_click_ea_member_total": 12
+        }
+      ]
+    },
+    {
+      "names": [
+        "PK助手",
+        "web"
+      ],
+      "enName": "UEvliqnm",
+      "attrs": {},
+      "displayAttrs": {
+        "listing_date": "2016-04-10"
+      },
+      "dataPoints": [
+        {
+          "n_banner_click_times_total": 123,
+          "n_banner_click_member_total": 36,
+          "n_banner_click_ea_member_total": 12
+        }
+      ]
+    }
+  ]
+}

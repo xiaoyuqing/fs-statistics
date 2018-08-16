@@ -1,0 +1,260 @@
+{
+  "errCode": 0,
+  "errMsg": "OK",
+  "data": [
+    {
+      "names": [
+        "服务号基础统计"
+      ],
+      "enName": "9435480c",
+      "attrs": {
+        "growth": {
+          "n_enter_session_service": {
+            "rate": "N/A",
+            "count": 0
+          },
+          "n_message_click_ea_member": {
+            "rate": "N/A",
+            "count": 19
+          },
+          "n_active_ea_member": {
+            "rate": "N/A",
+            "count": 61
+          },
+          "n_enter_session_service_ea_member": {
+            "rate": "N/A",
+            "count": 26
+          },
+          "n_sent_message_down_receiver": {
+            "rate": "N/A",
+            "count": 39
+          },
+          "n_message_click_member": {
+            "rate": "N/A",
+            "count": 56
+          },
+          "n_menu_click": {
+            "rate": "N/A",
+            "count": 74
+          },
+          "n_client_active_member": {
+            "rate": "N/A",
+            "count": 29
+          },
+          "n_message_click": {
+            "rate": "N/A",
+            "count": 87
+          },
+          "n_menu_click_member": {
+            "rate": "N/A",
+            "count": 91
+          },
+          "n_menu_click_ea_member": {
+            "rate": "N/A",
+            "count": 37
+          },
+          "n_sent_message_down_ea_member": {
+            "rate": "N/A",
+            "count": 32
+          },
+          "n_sent_message_up_ea_member": {
+            "rate": "N/A",
+            "count": 60
+          },
+          "n_sent_message_up": {
+            "rate": "N/A",
+            "count": 9
+          },
+          "n_sent_message_up_member": {
+            "rate": "N/A",
+            "count": 37
+          },
+          "n_sent_message_down": {
+            "rate": "N/A",
+            "count": 40
+          },
+          "n_enter_session_service_member": {
+            "rate": "N/A",
+            "count": 85
+          },
+          "n_client_active_ea_member": {
+            "rate": "N/A",
+            "count": 90
+          },
+          "n_defined_service": {
+            "rate": "N/A",
+            "count": 3
+          },
+          "n_defined_service_ea_member": {
+            "rate": "N/A",
+            "count": 89
+          }
+        }
+      },
+      "dataPoints": [
+        {
+          "n_enter_session_service": 92,
+          "n_message_click_ea_member": 77,
+          "n_active_ea_member": 72,
+          "n_enter_session_service_ea_member": 43,
+          "stat_date": 1463500800000,
+          "n_sent_message_down_receiver": 39,
+          "n_message_click_member": 1,
+          "n_menu_click": 86,
+          "n_client_active_member": 83,
+          "n_message_click": 10,
+          "n_menu_click_member": 0,
+          "n_menu_click_ea_member": 44,
+          "n_sent_message_down_ea_member": 34,
+          "n_sent_message_up_ea_member": 83,
+          "n_sent_message_up": 20,
+          "n_sent_message_up_member": 69,
+          "n_sent_message_down": 77,
+          "n_enter_session_service_member": 44,
+          "n_client_active_ea_member": 84,
+          "n_defined_service": 15,
+          "n_defined_service_ea_member": 84
+        },
+        {
+          "n_enter_session_service": 27,
+          "n_message_click_ea_member": 42,
+          "n_active_ea_member": 71,
+          "n_enter_session_service_ea_member": 65,
+          "stat_date": 1463587200000,
+          "n_sent_message_down_receiver": 36,
+          "n_message_click_member": 7,
+          "n_menu_click": 40,
+          "n_client_active_member": 91,
+          "n_message_click": 97,
+          "n_menu_click_member": 2,
+          "n_menu_click_ea_member": 92,
+          "n_sent_message_down_ea_member": 84,
+          "n_sent_message_up_ea_member": 94,
+          "n_sent_message_up": 53,
+          "n_sent_message_up_member": 90,
+          "n_sent_message_down": 29,
+          "n_enter_session_service_member": 29,
+          "n_client_active_ea_member": 29,
+          "n_defined_service": 57,
+          "n_defined_service_ea_member": 20
+        },
+        {
+          "n_enter_session_service": 62,
+          "n_message_click_ea_member": 83,
+          "n_active_ea_member": 33,
+          "n_enter_session_service_ea_member": 29,
+          "stat_date": 1463673600000,
+          "n_sent_message_down_receiver": 16,
+          "n_message_click_member": 0,
+          "n_menu_click": 58,
+          "n_client_active_member": 17,
+          "n_message_click": 5,
+          "n_menu_click_member": 2,
+          "n_menu_click_ea_member": 38,
+          "n_sent_message_down_ea_member": 6,
+          "n_sent_message_up_ea_member": 9,
+          "n_sent_message_up": 86,
+          "n_sent_message_up_member": 13,
+          "n_sent_message_down": 71,
+          "n_enter_session_service_member": 63,
+          "n_client_active_ea_member": 37,
+          "n_defined_service": 27,
+          "n_defined_service_ea_member": 50
+        },
+        {
+          "n_enter_session_service": 68,
+          "n_message_click_ea_member": 52,
+          "n_active_ea_member": 51,
+          "n_enter_session_service_ea_member": 80,
+          "stat_date": 1463760000000,
+          "n_sent_message_down_receiver": 94,
+          "n_message_click_member": 45,
+          "n_menu_click": 31,
+          "n_client_active_member": 24,
+          "n_message_click": 25,
+          "n_menu_click_member": 16,
+          "n_menu_click_ea_member": 85,
+          "n_sent_message_down_ea_member": 1,
+          "n_sent_message_up_ea_member": 93,
+          "n_sent_message_up": 80,
+          "n_sent_message_up_member": 47,
+          "n_sent_message_down": 71,
+          "n_enter_session_service_member": 57,
+          "n_client_active_ea_member": 64,
+          "n_defined_service": 62,
+          "n_defined_service_ea_member": 51
+        },
+        {
+          "n_enter_session_service": 86,
+          "n_message_click_ea_member": 11,
+          "n_active_ea_member": 27,
+          "n_enter_session_service_ea_member": 52,
+          "stat_date": 1463846400000,
+          "n_sent_message_down_receiver": 89,
+          "n_message_click_member": 72,
+          "n_menu_click": 75,
+          "n_client_active_member": 41,
+          "n_message_click": 50,
+          "n_menu_click_member": 19,
+          "n_menu_click_ea_member": 73,
+          "n_sent_message_down_ea_member": 86,
+          "n_sent_message_up_ea_member": 59,
+          "n_sent_message_up": 7,
+          "n_sent_message_up_member": 16,
+          "n_sent_message_down": 48,
+          "n_enter_session_service_member": 62,
+          "n_client_active_ea_member": 70,
+          "n_defined_service": 92,
+          "n_defined_service_ea_member": 85
+        },
+        {
+          "n_enter_session_service": 10,
+          "n_message_click_ea_member": 57,
+          "n_active_ea_member": 16,
+          "n_enter_session_service_ea_member": 93,
+          "stat_date": 1463932800000,
+          "n_sent_message_down_receiver": 95,
+          "n_message_click_member": 22,
+          "n_menu_click": 72,
+          "n_client_active_member": 21,
+          "n_message_click": 51,
+          "n_menu_click_member": 80,
+          "n_menu_click_ea_member": 87,
+          "n_sent_message_down_ea_member": 55,
+          "n_sent_message_up_ea_member": 77,
+          "n_sent_message_up": 94,
+          "n_sent_message_up_member": 12,
+          "n_sent_message_down": 27,
+          "n_enter_session_service_member": 64,
+          "n_client_active_ea_member": 36,
+          "n_defined_service": 26,
+          "n_defined_service_ea_member": 61
+        },
+        {
+          "n_enter_session_service": 92,
+          "n_message_click_ea_member": 55,
+          "n_active_ea_member": 93,
+          "n_enter_session_service_ea_member": 92,
+          "stat_date": 1464019200000,
+          "n_sent_message_down_receiver": 95,
+          "n_message_click_member": 60,
+          "n_menu_click": 41,
+          "n_client_active_member": 96,
+          "n_message_click": 16,
+          "n_menu_click_member": 30,
+          "n_menu_click_ea_member": 28,
+          "n_sent_message_down_ea_member": 95,
+          "n_sent_message_up_ea_member": 6,
+          "n_sent_message_up": 51,
+          "n_sent_message_up_member": 72,
+          "n_sent_message_down": 60,
+          "n_enter_session_service_member": 73,
+          "n_client_active_ea_member": 16,
+          "n_defined_service": 84,
+          "n_defined_service_ea_member": 2
+        }
+      ]
+    }
+  ],
+  "dataCount": 0
+}

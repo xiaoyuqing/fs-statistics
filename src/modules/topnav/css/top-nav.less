@@ -1,0 +1,223 @@
+@import '~assets/css/variable.less';
+
+.show-cate-filter{
+
+  &.statistics-contanier{
+    padding-top: @top-bar-height*2 + 20;/*px*/
+    
+  }
+
+  .modal-backdrop {
+    margin-top: @top-bar-height*2 + 20;/*px*/
+  }
+
+  .modal {
+    position: fixed;
+    margin-top: @top-bar-height*2 + 20;/*px*/
+  }
+}
+
+
+.statistics-contanier{
+  position: relative;
+  padding-top: @top-bar-height;/*px*/
+  font-size: 32px;/*px*/
+}
+
+.container{
+    font-size: 32px;/*px*/
+}
+
+.table-tab-container{
+    position: fixed;
+    width: 100%;
+    border-top: 1px solid @borderGrey;/*px*/
+    border-bottom: 1px solid @borderGrey;/*px*/
+    background-color: @whiteTwo;
+    z-index: 1000;
+}
+
+.top-nav-lists{
+    float: left;
+    height: @top-bar-height;/*px*/
+    line-height: @top-bar-height;/*px*/
+    width: 90%;
+    text-align: center;
+    .filter-icon{
+      width: 32px;/* px */
+      height: 32px;/* px */
+      margin-top: -4px;/* px */
+      display: inline-block;
+      vertical-align: middle;
+      background:url('~assets/images/icon-un-filter.png');
+      background-size: 100%;
+    }
+    &.nav-is-filter{
+      .filter-icon{
+        background:url('~assets/images/icon-do-filter.png');
+        background-size: 100%;
+      }
+    }
+}
+.table-filter-handle{
+    position: relative;
+    width: 10%;
+    text-decoration: none;
+    color: @white40;
+    &::before{
+        content: '';
+        position: absolute;
+        height: 50%;
+        top: 25%;
+        width: 1px;/* no */
+        background: @paleGrey;
+        left: 0;
+    }
+}
+
+.tab-container{
+    color: @white40;
+    .tab{
+        position:relative;
+        float: left;
+        color:@greyishBrown;
+        font-size: 28px;/* px */
+        a{
+            text-decoration: none;
+        }
+        &:active{
+            opacity: 0.8;
+        }
+    }
+
+    .active{
+        color:@dodgerBlue;
+        &:after{
+            content:'';
+            display: block;
+            width: 100%;
+            height: 4px;/* px */
+            position: absolute;
+            bottom: -3px;/* px */
+            z-index: 1;
+            background: @dodgerBlue;
+        }
+    }
+}
+
+
+.fade {
+    opacity: 0;
+    transition: opacity .15s linear;
+}
+
+
+
+// Modal background
+.modal-backdrop {
+  position: fixed;
+  margin-top: @top-bar-height;/*px*/
+  z-index: -1;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #000;
+  &.fade { 
+    opacity: 0; 
+  }
+  &.in { 
+    opacity: 0.3; 
+    z-index: 1000;   
+  }
+}
+
+
+.modal {
+    position: fixed;
+    margin-top: @top-bar-height;/*px*/
+    z-index: -1;
+    top: 0;
+    right: 0;
+    left: 0;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    outline: 0;
+    &.fade { 
+      opacity: 0; 
+    }
+    &.in { 
+      opacity: 1; 
+      z-index: 1050;
+    }
+}
+
+.modal-body{
+  background-color: #fff;
+  padding:31px 24px;/*px*/
+  &:first-child{
+     border-bottom:1px solid @paleGrey;/*no*/
+  }
+  span.red{
+  color:@orangeyRed;
+  }
+  &::after{
+  content: '';
+  display: table;
+  width: 0px;
+  height: 0px;
+  clear: both;
+  zoom:1;
+  }
+} 
+
+
+.modal-b-list{
+  overflow:auto;
+  background-color: #fff;
+  li{
+    
+    padding: 10px  24px;/*px*/
+    overflow: hidden;
+    text-align: right;
+    float:left;
+    font-size:28px;/*px*/
+    background-color:@whiteFive;
+    border-radius:30px;/*px*/
+    margin:0 32px 30px  0 ;/*px*/
+    &.active{
+      color:#fff;
+      background-color:@darkSkyBlue;
+      
+    }
+    &.active_app{
+      color:#fff;
+      background-color:@darkSkyBlue;
+      
+    }
+  }
+}
+
+.modal-bottom{
+   position: fixed;
+   bottom:0;
+   left:0;
+   width:100%;
+   padding:31px 0;/*px*/
+   background-color:@darkSkyBlue;
+   z-index: 1050;
+   .confirm{
+      text-align:center;
+      font-size:34px;
+      color:#fff;
+
+   }
+}
+.modal .modal-top{
+  padding-bottom:0;
+}
+
+p.title{
+  padding-bottom:30px;/*px*/
+}
+

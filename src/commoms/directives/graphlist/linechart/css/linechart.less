@@ -1,0 +1,87 @@
+@import '~assets/css/variable.less';
+//@import '../../css/dropdown.less';
+
+.graph-container .fs-graph-name{
+    border-left: 4px solid @dodgerBlue;/* px */
+    padding-left: 12px;/* px */
+}
+.graph-container .nvtooltip{
+    top:0;
+    //padding:0 40px;
+    box-sizing: border-box;
+    width: 100%;
+    border: none;
+    background-color: @whiteTwo;
+}
+.graph-container .nvtooltip .custom-tp-table{
+    width: 100%;
+    color: @warmGrey;
+    td{
+        padding-bottom: 0!important;
+        font-size:24px;/*px*/
+        color: @warmGrey;
+    }
+    .time{
+        color: @warmGrey;
+    }
+}
+
+.graph-container .nvtooltip thead{
+    display: none;
+}
+
+
+.graph-container .nvd3 text{
+    font-size: 18px;/*px*/
+    fill: @warmGrey;
+}
+
+.graph-container .hover-tips{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    color: @warmGrey;
+    font-size: 28px;/*px*/
+}
+
+
+.graph-container .graph-content{
+    position: relative;
+    width: 100%;
+    padding-top: 45px;
+    //height: 400px;/*no*/
+}
+
+.graph-container .graph-title{
+    font-size:28px;/*px*/
+    color:#333333;
+    td{
+        padding: 30px 20px;
+        border-bottom: 1px solid @pinkishGrey;/*no*/
+    }
+}
+
+
+.graph-container .graph-title-data::before{
+    content:'';
+    display: inline-block;
+    width:6px;/*no*/
+    height:100%;
+    margin-right: 10px;
+    vertical-align: -16px;
+    border-radius: 8px;
+    background-color: #9b9b9b;
+}
+.graph-container .graph-view-detail{
+    padding: 10px 20px; /*px*/
+    text-decoration: none;
+    font-size:28px;/*px*/
+    font-weight: normal;
+    color: #4aa7f6;
+}
+.graph-container .graph-view-detail:active{
+    background-color: #f8f8f8;
+    opacity: 0.8;
+}
+

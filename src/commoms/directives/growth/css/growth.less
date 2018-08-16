@@ -1,0 +1,108 @@
+@import '~assets/css/variable.less';
+
+.growth-container{
+	height:@top-bar-height+20;/* px */
+}
+
+.growth-container .growth-table{
+	width:100%;
+	tr{
+	  td{
+	  width:50%;
+	  text-align:center;
+
+	  }
+	}
+
+            .data{
+                font-size:45px;/* px */
+               
+                margin-bottom:8px;/* px */
+            }
+
+            .dataItem{
+                color:@greyishBrownTwo;
+            }
+
+            .green{
+                color:@greenyBlue;  
+            }
+
+            .red{
+                color:@blush;   
+            }
+
+            .black{
+                color:@greyishBrownTwo;
+            }
+
+            .describe{
+                color:@pinkishGreyTwo;
+                font-size:24px;/* px */
+            }
+
+            .growth-zero{
+              width:0;
+              height:0;
+            }
+        
+
+        td.growth-right{
+             text-align:center;
+             padding: 15px 0px;
+        }
+        
+    }
+
+
+.growth-container .growth-table  td:first-child{
+	border-right:1px solid @pinkishGreyTwo;/* no */
+}
+
+.growth-arrow{
+	width: 30px;/* px */
+    height: 45px;/* px */
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+.growth-arrow:before, .growth-arrow:after {
+    content: '';
+    border-color: transparent;
+    border-style: solid;
+    position: absolute;
+}
+
+.growth-arrow-down:before {
+    border: none;
+    background-color: @greenyBlue;
+    height: 60%;
+    width: 13%;
+    top: 0;
+    left: 37%;
+}
+
+.growth-arrow-down:after {
+    left: 6%;
+    top: 60%;
+    border-width: 13px 13px;/* px */
+    border-top-color: @greenyBlue;
+}
+
+.growth-arrow-up:before {
+    border: none;
+    background-color: @blush;
+    height: 60%;
+    width: 13%;
+    top: 23%;
+    left: 37%;
+}
+
+.growth-arrow-up:after {
+    left: 0;
+    top: -30%;
+    border-width: 13px 13px;/* px */
+    border-bottom-color: @blush;
+}

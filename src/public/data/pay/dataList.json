@@ -1,0 +1,81 @@
+{
+    "errCode": 0,
+    "errMsg": "OK",
+    "data": [
+        {
+            "names": [
+                "红包"
+            ],
+            "enName": "4dfa3b47",
+            "dataPoints": [
+                {
+                    "n_bonus_send_member": 1,
+                    "n_bonus_send_money": 1.45,
+                    "n_bonus_back_num": 1,
+                    "stat_date": 1457712000000,
+                    "n_bonus_receive_money": 1.78,
+                    "n_bonus_receive_num": 1,
+                    "n_bonus_send_num": 1,
+                    "n_bonus_receive_member": 1,
+                    "n_bonus_back_money": 1.34
+                }
+            ]
+        },
+        {
+            "names": [
+                "钱包"
+            ],
+            "enName": "2f47473c",
+            "dataPoints": [
+                {
+                    "n_wallet_bind_card_fail": 1,
+                    "n_wallet_unbind_card": 12,
+                    "n_wallet_bind_member": 1,
+                    "stat_date": 1457712000000,
+                    "n_wallet_bind_card": 1
+                }
+            ]
+        },
+        {
+            "names": [
+                "财务"
+            ],
+            "enName": "b8fe8d95",
+            "dataPoints": [
+                {
+                    "stat_date": 1457712000000,
+                    "n_account_day_cash_money": 1.45,
+                    "n_account_day_recharge_money": 1.45,
+                    "n_account_kq_recharge_money": 1.67,
+                    "n_account_weixin_recharge_money": 1.3,
+                    "n_account_day_cash_num": 1
+                }
+            ]
+        },
+        {
+            "names": [
+                "打赏"
+            ],
+            "enName": "99e776ba",
+            "dataPoints": [
+                {
+                    "reward_created_diary_num": 4,
+                    "reward_created_support_num": 90,
+                    "reward_shared_num": 16,
+                    "stat_date": 1457712000000,
+                    "reward_ios_success_num": 60,
+                    "reward_success_num": 6,
+                    "reward_web_success_num": 31,
+                    "reward_android_success_num": 82,
+                    "reward_fail_num": 48,
+                    "reward_created_shared_num": 44,
+                    "reward_ea_member": 70,
+                    "reward_member": 23,
+                    "reward_money": 8,
+                    "reward_diary_num": 38
+                }
+            ]
+        }
+    ],
+    "dataCount": 0
+}

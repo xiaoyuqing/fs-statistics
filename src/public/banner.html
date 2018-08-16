@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="yes" name="apple-touch-fullscreen">
+    <meta content="telephone=no,email=no" name="format-detection">
+    <title>banner统计</title>
+    
+    <!-- basketJs -->
+    <script src='libs/basket.js'></script>
+    <!-- flexibleCss -->
+    <style><%= htmlWebpackPlugin.options.flexibleCss %></style>
+    <!-- flexiblejs -->
+    <script><%= htmlWebpackPlugin.options.flexibleJs %></script>
+    
+    
+    <!-- loadSource -->
+    <script><%= htmlWebpackPlugin.options.loadSource %></script>
+    
+    
+    <!-- <base href="./"> -->
+</head>
+
+<body>
+    <main class="container">
+        <ui-view></ui-view>
+    </main>
+    
+
+    <script>
+        var isEmbed = +'<%= htmlWebpackPlugin.options.isEmbed %>';
+        
+        var FS = FS || {};
+        FS.asset = {
+            js: {
+                vendors: 'vendors.js',
+                d3: 'libs/vendors/garbled/d3.js',
+                nv: 'libs/vendors/garbled/nv-d3.js'
+            }
+        }
+
+        isEmbed ? basket.require({
+            "url":FS.asset.js.vendors,
+            "key":"vendors",
+            "unique":"v2.0"
+            }).then(function(){
+                getFsResource.loadStyle(FsResources.css,'head');
+                getFsResource.loadScript(FsResources.js);
+            })
+         : document.write('<script src="' + FS.asset.js.d3 + '"><' + '/script><script src="' +
+        FS.asset.js.nv + '"><' + '/script>');
+
+    </script>
+
+</body>
+</html>

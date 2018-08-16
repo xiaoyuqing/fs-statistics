@@ -1,0 +1,48 @@
+{
+    "errCode": 0,
+    "errMsg": "OK",
+    "data": [
+        {
+            "names": [
+                "概况"
+            ],
+            "enName": "8457e156",
+            "dataPoints": [
+                {
+                    "n_total_call_fail_total": 7,
+                    "n_total_call_ea_member_total": 101,
+                    "n_total_call_total": 166
+                }
+            ]
+        },
+        {
+            "names": [
+                "主调接口"
+            ],
+            "enName": "6ccb1b8e",
+            "dataPoints": [
+                {
+                    "n_main_call_total": 53,
+                    "n_main_call_success_total": 97,
+                    "n_main_call_ea_member_total": 148,
+                    "n_main_call_fail_total": 28
+                }
+            ]
+        },
+        {
+            "names": [
+                "回调接口"
+            ],
+            "enName": "08a01698",
+            "dataPoints": [
+                {
+                    "n_call_back_ea_member_total": 78,
+                    "n_call_back_success_total": 142,
+                    "n_call_back_total": 57,
+                    "n_call_back_fail_total": 140
+                }
+            ]
+        }
+    ],
+    "dataCount": 0
+}

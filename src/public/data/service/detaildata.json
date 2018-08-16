@@ -1,0 +1,331 @@
+{
+  "errCode": 0,
+  "errMsg": "OK",
+  "data": {
+    "n_enter_session_service": [
+      {
+        "name": "IT助手",
+        "count": 92
+      },
+      {
+        "name": "外勤签到",
+        "count": 82
+      },
+      {
+        "name": "语音助手",
+        "count": 42
+      },
+      {
+        "name": "邮箱助手",
+        "count": 27
+      }
+    ],
+    "n_message_click_ea_member": [
+      {
+        "name": "外勤签到",
+        "count": 89
+      },
+      {
+        "name": "邮箱助手",
+        "count": 64
+      },
+      {
+        "name": "语音助手",
+        "count": 9
+      },
+      {
+        "name": "IT助手",
+        "count": 2
+      }
+    ],
+    "n_active_ea_member": [
+      {
+        "name": "邮箱助手",
+        "count": 97
+      },
+      {
+        "name": "IT助手",
+        "count": 97
+      },
+      {
+        "name": "外勤签到",
+        "count": 70
+      },
+      {
+        "name": "语音助手",
+        "count": 63
+      }
+    ],
+    "n_enter_session_service_ea_member": [
+      {
+        "name": "IT助手",
+        "count": 89
+      },
+      {
+        "name": "邮箱助手",
+        "count": 71
+      },
+      {
+        "name": "外勤签到",
+        "count": 10
+      },
+      {
+        "name": "语音助手",
+        "count": 7
+      }
+    ],
+    "n_sent_message_down_receiver": [
+      {
+        "name": "IT助手",
+        "count": 90
+      },
+      {
+        "name": "邮箱助手",
+        "count": 61
+      },
+      {
+        "name": "外勤签到",
+        "count": 60
+      },
+      {
+        "name": "语音助手",
+        "count": 48
+      }
+    ],
+    "n_message_click_member": [
+      {
+        "name": "语音助手",
+        "count": 60
+      },
+      {
+        "name": "IT助手",
+        "count": 36
+      },
+      {
+        "name": "外勤签到",
+        "count": 23
+      },
+      {
+        "name": "邮箱助手",
+        "count": 15
+      }
+    ],
+    "n_menu_click": [
+      {
+        "name": "IT助手",
+        "count": 66
+      },
+      {
+        "name": "外勤签到",
+        "count": 56
+      },
+      {
+        "name": "语音助手",
+        "count": 38
+      },
+      {
+        "name": "邮箱助手",
+        "count": 7
+      }
+    ],
+    "n_client_active_member": [
+      {
+        "name": "外勤签到",
+        "count": 77
+      },
+      {
+        "name": "邮箱助手",
+        "count": 75
+      },
+      {
+        "name": "语音助手",
+        "count": 63
+      },
+      {
+        "name": "IT助手",
+        "count": 1
+      }
+    ],
+    "n_message_click": [
+      {
+        "name": "邮箱助手",
+        "count": 71
+      },
+      {
+        "name": "IT助手",
+        "count": 60
+      },
+      {
+        "name": "外勤签到",
+        "count": 42
+      },
+      {
+        "name": "语音助手",
+        "count": 31
+      }
+    ],
+    "n_menu_click_member": [
+      {
+        "name": "语音助手",
+        "count": 68
+      },
+      {
+        "name": "IT助手",
+        "count": 62
+      },
+      {
+        "name": "外勤签到",
+        "count": 52
+      },
+      {
+        "name": "邮箱助手",
+        "count": 24
+      }
+    ],
+    "n_menu_click_ea_member": [
+      {
+        "name": "邮箱助手",
+        "count": 96
+      },
+      {
+        "name": "外勤签到",
+        "count": 93
+      },
+      {
+        "name": "语音助手",
+        "count": 29
+      },
+      {
+        "name": "IT助手",
+        "count": 15
+      }
+    ],
+    "n_sent_message_down_ea_member": [
+      {
+        "name": "语音助手",
+        "count": 99
+      },
+      {
+        "name": "邮箱助手",
+        "count": 93
+      },
+      {
+        "name": "IT助手",
+        "count": 52
+      },
+      {
+        "name": "外勤签到",
+        "count": 39
+      }
+    ],
+    "n_sent_message_up_ea_member": [
+      {
+        "name": "外勤签到",
+        "count": 62
+      },
+      {
+        "name": "IT助手",
+        "count": 55
+      },
+      {
+        "name": "邮箱助手",
+        "count": 47
+      },
+      {
+        "name": "语音助手",
+        "count": 32
+      }
+    ],
+    "n_sent_message_up": [
+      {
+        "name": "IT助手",
+        "count": 90
+      },
+      {
+        "name": "语音助手",
+        "count": 39
+      },
+      {
+        "name": "邮箱助手",
+        "count": 8
+      },
+      {
+        "name": "外勤签到",
+        "count": 7
+      }
+    ],
+    "n_sent_message_up_member": [
+      {
+        "name": "外勤签到",
+        "count": 56
+      },
+      {
+        "name": "邮箱助手",
+        "count": 54
+      },
+      {
+        "name": "语音助手",
+        "count": 10
+      },
+      {
+        "name": "IT助手",
+        "count": 5
+      }
+    ],
+    "n_sent_message_down": [
+      {
+        "name": "IT助手",
+        "count": 90
+      },
+      {
+        "name": "语音助手",
+        "count": 49
+      },
+      {
+        "name": "外勤签到",
+        "count": 46
+      },
+      {
+        "name": "邮箱助手",
+        "count": 35
+      }
+    ],
+    "n_enter_session_service_member": [
+      {
+        "name": "IT助手",
+        "count": 93
+      },
+      {
+        "name": "语音助手",
+        "count": 66
+      },
+      {
+        "name": "邮箱助手",
+        "count": 50
+      },
+      {
+        "name": "外勤签到",
+        "count": 31
+      }
+    ],
+    "n_client_active_ea_member": [
+      {
+        "name": "语音助手",
+        "count": 91
+      },
+      {
+        "name": "邮箱助手",
+        "count": 84
+      },
+      {
+        "name": "外勤签到",
+        "count": 20
+      },
+      {
+        "name": "IT助手",
+        "count": 0
+      }
+    ]
+  },
+  "dataCount": 0
+}

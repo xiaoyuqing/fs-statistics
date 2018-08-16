@@ -1,0 +1,104 @@
+{
+    "errCode": 0,
+    "errMsg": "OK",
+    "data": [
+        {
+            "names": [
+                "概况"
+            ],
+            "enName": "8457e156",
+            "attrs": {
+                "growth": {
+                    "n_total_call_ea_member": {
+                        "rate": "N/A",
+                        "count": 0
+                    },
+                    "n_total_call_fail": {
+                        "rate": "N/A",
+                        "count": 0
+                    },
+                    "n_total_call": {
+                        "rate": "N/A",
+                        "count": 0
+                    }
+                }
+            },
+            "dataPoints": [
+                {
+                    "n_total_call_ea_member": 0,
+                    "n_total_call_fail": 0,
+                    "n_total_call": 0
+                }
+            ]
+        },
+        {
+            "names": [
+                "主调接口"
+            ],
+            "enName": "6ccb1b8e",
+            "attrs": {
+                "growth": {
+                    "n_main_call_success": {
+                        "rate": "N/A",
+                        "count": 0
+                    },
+                    "n_main_call": {
+                        "rate": "N/A",
+                        "count": 0
+                    },
+                    "n_main_call_fail": {
+                        "rate": "N/A",
+                        "count": 0
+                    },
+                    "n_main_call_ea_member": {
+                        "rate": "N/A",
+                        "count": 0
+                    }
+                }
+            },
+            "dataPoints": [
+                {
+                    "n_main_call_success": 0,
+                    "n_main_call": 0,
+                    "n_main_call_fail": 0,
+                    "n_main_call_ea_member": 0
+                }
+            ]
+        },
+        {
+            "names": [
+                "回调接口"
+            ],
+            "enName": "08a01698",
+            "attrs": {
+                "growth": {
+                    "n_call_back": {
+                        "rate": "N/A",
+                        "count": 0
+                    },
+                    "n_call_back_success": {
+                        "rate": "N/A",
+                        "count": 0
+                    },
+                    "n_call_back_fail": {
+                        "rate": "N/A",
+                        "count": 0
+                    },
+                    "n_call_back_ea_member": {
+                        "rate": "N/A",
+                        "count": 0
+                    }
+                }
+            },
+            "dataPoints": [
+                {
+                    "n_call_back": 0,
+                    "n_call_back_success": 0,
+                    "n_call_back_fail": 0,
+                    "n_call_back_ea_member": 0
+                }
+            ]
+        }
+    ],
+    "dataCount": 0
+}

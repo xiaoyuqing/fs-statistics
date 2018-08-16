@@ -1,0 +1,9 @@
+{
+    "conf":"src/app/conf",
+    "components":"src/components",
+    "commoms":"src/commoms",
+    "modules":"src/modules",
+    "public":"src/public",
+    "assets":"src/public/assets",
+    "libs":"public/libs"
+}

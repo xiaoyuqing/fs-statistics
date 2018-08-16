@@ -1,0 +1,70 @@
+@import '~assets/css/variable.less';
+//下拉列表的样式
+.graph-dropdown .dropdown-warp{
+    padding: 0;
+    padding-top: 10px;
+    position: relative;
+    font-weight: normal;
+}
+.graph-dropdown .dropdown-handle{
+    position: relative;
+    display: block;
+    padding: 10px 0;
+    padding-right: 54px;/*px*/
+    color: #333333;   
+    cursor: pointer;
+    text-decoration: none;
+}
+.graph-dropdown .dropdown-handle:active{
+    opacity: 0.8;
+}
+
+.graph-dropdown .dropdown-handle:after{
+    content: '';
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    width:24px;/*px*/
+    height:13px;/*px*/
+    margin-left: 10px;
+
+    background:url('~assets/images/unfold-arrow.png');
+    background-size: 100% 100%;
+}
+.graph-dropdown .dropdown-handle.active:after{
+    width:24px;/*px*/
+    height:13px;/*px*/
+    background:url('~assets/images/fold-arrow.png');
+    background-size: 100% 100%;
+}
+.graph-dropdown .dropdown-handle:active{
+    opacity: 0.8;
+}
+.graph-dropdown .dropdown-content{
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    padding: 16px 0;/* px */
+    z-index: 101;
+    background: @whiteTwo;
+    border:1px solid @pinkishGrey; /*no*/
+    border-radius:8px;
+}
+.graph-dropdown .dropdown-content li{
+    text-align: left;
+    padding: 5px 16px;/* px */
+    cursor: pointer;
+    color: @greyishBrown;
+}
+.graph-dropdown .dropdown-content li:active{
+    background-color: #f2f2f2;
+    opacity: 0.8;
+}
+
+.graph-dropdown .dropdown-content a{
+    padding: 10px;
+    font-size:32px;
+    color:@greyishBrown;
+    text-decoration: none;
+}

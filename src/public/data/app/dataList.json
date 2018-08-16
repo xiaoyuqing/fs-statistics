@@ -1,0 +1,375 @@
+{
+    "errCode": 0, 
+    "errMsg": "OK", 
+    "data": [
+        {
+            "names": [
+                "外勤签到"
+            ], 
+            "enName": "67890", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 0, 
+                    "n_click_new_member": 29, 
+                    "n_click_member_app": 59, 
+                    "n_click_ea_member": 13, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 183
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "扫名片"
+            ], 
+            "enName": "679789", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 0, 
+                    "n_click_new_member": 7, 
+                    "n_click_member_app": 7, 
+                    "n_click_ea_member": 5, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 120
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "考勤签到"
+            ], 
+            "enName": "as231412", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 0, 
+                    "n_click_new_member": 12, 
+                    "n_click_member_app": 44, 
+                    "n_click_ea_member": 12, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 107
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "项目管理"
+            ], 
+            "enName": "as142", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 0, 
+                    "n_click_new_member": 4, 
+                    "n_click_member_app": 18, 
+                    "n_click_ea_member": 10, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 52
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "培训助手"
+            ], 
+            "enName": "56789", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 3, 
+                    "n_click_new_member": 15, 
+                    "n_click_member_app": 19, 
+                    "n_click_ea_member": 12, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 29
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "工商查询"
+            ], 
+            "enName": "13243", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 2, 
+                    "n_click_new_member": 6, 
+                    "n_click_member_app": 9, 
+                    "n_click_ea_member": 7, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 27
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "战报助手"
+            ], 
+            "enName": "356547", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 4, 
+                    "n_click_new_member": 15, 
+                    "n_click_member_app": 16, 
+                    "n_click_ea_member": 12, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 22
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "PK助手"
+            ], 
+            "enName": "12345", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 1, 
+                    "n_click_new_member": 7, 
+                    "n_click_member_app": 8, 
+                    "n_click_ea_member": 5, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 20
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "会议助手"
+            ], 
+            "enName": "45678", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 2, 
+                    "n_click_new_member": 10, 
+                    "n_click_member_app": 12, 
+                    "n_click_ea_member": 9, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 18
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "微营销"
+            ], 
+            "enName": "asdfa", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 3, 
+                    "n_click_new_member": 6, 
+                    "n_click_member_app": 10, 
+                    "n_click_ea_member": 6, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 15
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "企查查"
+            ], 
+            "enName": "34567", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 0, 
+                    "n_click_new_member": 1, 
+                    "n_click_member_app": 2, 
+                    "n_click_ea_member": 1, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 11
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "报数系统"
+            ], 
+            "enName": "136458", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 2, 
+                    "n_click_new_member": 6, 
+                    "n_click_member_app": 6, 
+                    "n_click_ea_member": 6, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 9
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "外勤统计"
+            ], 
+            "enName": "13579", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 2, 
+                    "n_click_new_member": 3, 
+                    "n_click_member_app": 3, 
+                    "n_click_ea_member": 3, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 7
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "工作简报"
+            ], 
+            "enName": "1345656", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 1, 
+                    "n_click_new_member": 4, 
+                    "n_click_member_app": 4, 
+                    "n_click_ea_member": 4, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 5
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "百川通知"
+            ], 
+            "enName": "asd23421", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 2, 
+                    "n_click_new_member": 4, 
+                    "n_click_member_app": 4, 
+                    "n_click_ea_member": 4, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 5
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "百川网盘"
+            ], 
+            "enName": "asd2341", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 1, 
+                    "n_click_new_member": 3, 
+                    "n_click_member_app": 3, 
+                    "n_click_ea_member": 3, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 4
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "考勤统计"
+            ], 
+            "enName": "as23142", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 0, 
+                    "n_click_new_member": 1, 
+                    "n_click_member_app": 2, 
+                    "n_click_ea_member": 2, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 4
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "纷享汇聚"
+            ], 
+            "enName": "asd2314121", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 0, 
+                    "n_click_new_member": 1, 
+                    "n_click_member_app": 1, 
+                    "n_click_ea_member": 1, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 3
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "恒游科技"
+            ], 
+            "enName": "askhfskdfh", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 0, 
+                    "n_click_new_member": 1, 
+                    "n_click_member_app": 1, 
+                    "n_click_ea_member": 1, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 2
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "蜂蜜"
+            ], 
+            "enName": "as3142", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 0, 
+                    "n_click_new_member": 1, 
+                    "n_click_member_app": 1, 
+                    "n_click_ea_member": 1, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 2
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "汇聚平台"
+            ], 
+            "enName": "iupouip", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 0, 
+                    "n_click_new_member": 1, 
+                    "n_click_member_app": 1, 
+                    "n_click_ea_member": 1, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 1
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "汇聚"
+            ], 
+            "enName": "rturu", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 0, 
+                    "n_click_new_member": 1, 
+                    "n_click_member_app": 1, 
+                    "n_click_ea_member": 1, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 1
+                }
+            ]
+        }, 
+        {
+            "names": [
+                "示例应用"
+            ], 
+            "enName": "asd234121", 
+            "dataPoints": [
+                {
+                    "n_click_new_ea_member": 0, 
+                    "n_click_new_member": 1, 
+                    "n_click_member_app": 1, 
+                    "n_click_ea_member": 1, 
+                    "stat_date": 1463414400000, 
+                    "n_click_times_app": 1
+                }
+            ]
+        }
+    ], 
+    "dataCount": 0
+}
